@@ -1,0 +1,118 @@
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Arial !important;
+}
+
+.temper {
+    width: 1000px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.pr {
+    width: 350px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.forteca {
+    width: 1000px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    background: lightskyblue;
+    border: 1px solid grey;
+}
+
+.th1 {
+    background: yellow;
+}
+
+.th2 {
+    width: 100px;
+    background: yellow;
+}
+
+.th3 {
+    background: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.th4 {
+    background: none;
+    font-weight: bold;
+    width: 400px;
+}
+
+.th5 {
+    background: none;
+    font-size: small;
+}
+
+.th6 {
+    background: none;
+    width: 50px;
+    font-size: small;
+}
+
+td {
+    text-align: center;
+    border: 1px solid grey;
+}
+
+.td1 {
+    background-color: rgb(248, 238, 226);
+}
+
+.td2 {
+    background-color: rgb(0, 162, 0);
+}
+
+.td3 {
+    font-size: small;
+}
+
+.td4 {
+    text-align: center;
+    border: 1px solid grey;
+}
+
+.h3-temper {
+    padding: 0px 335px;
+    margin: 0;
+}
+
+.h3-pr {
+    padding: 0px 50px;
+    margin: 0;
+}
+
+.h3-forteca {
+    padding: 0px 450px;
+    margin: 0;
+}
+
+.h4-temper {
+    padding: 10px 550px;
+    margin: 0;
+}
+
+.h4-pr {
+    padding: 10px 130px;
+    margin: 0;
+}
+
+h4 {
+    font-weight: normal;
+    padding: 0px 500px;
+}
+
+span {
+    color: blue;
+}
