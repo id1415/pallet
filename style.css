@@ -61,6 +61,12 @@ th {
     font-size: small;
 }
 
+.th7 {
+    background: crimson;
+    font-weight: bold;
+    width: 400px;
+}
+
 td {
     text-align: center;
     border: 1px solid grey;
@@ -81,6 +87,10 @@ td {
 .td4 {
     text-align: center;
     border: 1px solid grey;
+}
+
+.td5 {
+    background: crimson;
 }
 
 .h3-temper {
