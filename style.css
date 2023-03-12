@@ -11,7 +11,8 @@ html *
 }
 
 .pr {
-    width: 350px;
+    font-size: large;
+    width: 500px;
     border: 1px solid grey;
     border-collapse: collapse;
 }
@@ -90,21 +91,6 @@ td {
 
 .td5 {
     background: crimson;
-}
-
-.h3-temper {
-    padding: 0px 335px;
-    margin: 0;
-}
-
-.h3-pr {
-    padding: 0px 50px;
-    margin: 0;
-}
-
-.h3-forteca {
-    padding: 0px 450px;
-    margin: 0;
 }
 
 .h4-temper {
